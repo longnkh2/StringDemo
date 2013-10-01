@@ -4,5 +4,6 @@ int main()
 {
   printf("Hello World!!!\n");
   printf("Edited by longnkh2\n");
+  printf("Another Edited by longnkh2 after set read only\n");
   return 0;
 }
